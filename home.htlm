@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Automations</title>
+    <meta name="description" content="Media Automations helps Facebook and Instagram Page owners automate responses to comments and deliver requested resources.">
+
+```
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        background: #f5f5f5;
+        color: #222;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 70px 24px;
+    }
+
+    .card {
+        background: #fff;
+        padding: 50px;
+        border-radius: 12px;
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    }
+
+    h1 {
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-size: 34px;
+        letter-spacing: -0.5px;
+    }
+
+    h2 {
+        margin-top: 40px;
+        margin-bottom: 12px;
+        font-size: 21px;
+    }
+
+    p {
+        margin: 0 0 18px;
+    }
+
+    a {
+        color: #1667d9;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    .links {
+        margin-top: 35px;
+        padding-top: 25px;
+        border-top: 1px solid #ddd;
+    }
+
+    .links a {
+        display: block;
+        margin: 10px 0;
+    }
+
+    footer {
+        margin-top: 35px;
+        text-align: center;
+        color: #777;
+        font-size: 14px;
+    }
+
+    @media (max-width: 600px) {
+        .container {
+            padding: 30px 15px;
+        }
+
+        .card {
+            padding: 30px 24px;
+        }
+
+        h1 {
+            font-size: 28px;
+        }
+    }
+</style>
+```
+
+</head>
+
+<body>
+
+```
+<div class="container">
+    <div class="card">
+
+        <h1>Media Automations</h1>
+
+        <p>
+            Media Automations is a private automation tool that helps
+            Facebook and Instagram account owners manage interactions
+            with people who comment on their posts.
+        </p>
+
+        <h2>What the service does</h2>
+
+        <p>
+            On connected Facebook Pages and Instagram accounts, the
+            automation can detect comments containing designated
+            keywords and initiate an automated response.
+        </p>
+
+        <p>
+            For example, when a person comments with a designated
+            keyword such as “audio”, the automation can send a private
+            message containing a button that allows the person to
+            request the relevant resource. After the person requests
+            the resource, the automation sends the requested link.
+        </p>
+
+        <p>
+            On Facebook, the automation can also post a public reply
+            to the original comment informing the person that they
+            have received a private message.
+        </p>
+
+        <h2>Facebook and Instagram</h2>
+
+        <p>
+            The service supports automated interactions on both
+            Facebook Pages and Instagram accounts. The specific
+            messaging and interaction capabilities available depend
+            on the permissions and features provided by Meta for each
+            platform.
+        </p>
+
+        <h2>Privacy and Data</h2>
+
+        <p>
+            Media Automations only processes information necessary to
+            provide the automated interaction described above. Platform
+            data received through Meta APIs is handled in accordance
+            with our privacy practices.
+        </p>
+
+        <div class="links">
+            <a href="https://omppu42.github.io/meta-privacy/privacy.html">
+                Privacy Policy
+            </a>
+
+            <a href="https://omppu42.github.io/meta-privacy/data-deletion.html">
+                Data Deletion
+            </a>
+        </div>
+
+    </div>
+
+    <footer>
+        &copy; 2026 Saranen Media. All rights reserved.
+    </footer>
+</div>
+```
+
+</body>
+</html>
